@@ -117,6 +117,8 @@ The filtering and display changes must happen **dynamically using JavaScript wit
 ## 📸 Screenshot - Output
 ![Alt Text](Result1.png)
 ![Alt Text](Result2.png)
+![Alt Text](Result3.png)
+
 
 ## Learning Outcome
 - Gain experience with real-time **DOM event handling**.
